@@ -1,3 +1,5 @@
 #python3.11
 requests
 httpx
+
+more-itertools
