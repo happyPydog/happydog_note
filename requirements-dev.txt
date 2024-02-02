@@ -1,0 +1,9 @@
+pytest
+pytest-cov
+
+# linter
+black
+black[jupyter]
+isort
+flake8
+mypy
