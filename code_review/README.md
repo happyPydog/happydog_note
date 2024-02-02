@@ -3,4 +3,4 @@
 
 
 # Reference
-- https://www.reddit.com/r/learnpython/comments/10k55u9/best_resources_to_study_python/
+- [What are the best Python libraries to learn for beginners?](https://www.reddit.com/r/Python/comments/10prx0l/what_are_the_best_python_libraries_to_learn_for/)
