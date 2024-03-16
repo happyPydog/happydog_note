@@ -3,3 +3,7 @@ requests
 httpx
 
 more-itertools
+
+# ml
+mlflow
+scikit-learn
