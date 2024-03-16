@@ -1,0 +1,27 @@
+[tool.poetry]
+name = "happydog-note"
+version = "0.1.0"
+description = ""
+authors = ["Rammstein-1994 <lanc840930.mg09@nycu.edu.tw>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+pydantic = "^2.6.4"
+python-dotenv = "^1.0.1"
+numpy = "^1.26.4"
+pandas = "^2.2.1"
+matplotlib = "^3.8.3"
+mlflow = "^2.11.1"
+scikit-learn = "^1.4.1.post1"
+
+
+[tool.poetry.group.dev.dependencies]
+rich = "^13.7.1"
+pytest = "^8.1.1"
+pytest-cov = "^4.1.0"
+pytest-mock = "^3.12.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
